@@ -8,7 +8,7 @@ Many description workflows follow recurrent structures. To support users, we pro
 
 ## Which ontologies are there?
 
-A collection of existing ontologies is available through the [Ontology Portal](https://matportal.org/ontologies), where you can explore domain ontologies curated and maintained by the group and its collaborators. To ensure compatibility across domains, the [PMD core ontolgy][PMDco-docs] acts as a mediation ontology, aligning different conceptualizations —- this is more advanced but essential for long-term interoperability.
+A collection of existing ontologies is available through the [Ontology Portal](https://matportal.org/ontologies), where you can explore domain ontologies curated and maintained by the group and its collaborators. To ensure compatibility across domains, the [PMD core ontolgy][PMDco-docs] acts as a mediation ontology, aligning different conceptualizations -- this is more advanced but essential for long-term interoperability.
 
 ## How to build something new?
 
